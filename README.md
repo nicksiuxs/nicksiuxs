@@ -1,4 +1,10 @@
-### Hi there 👋
+## Nicolas Londoño Perez
+
+Soy un desarrollador front end, apasionado por las tecnologías web 💻.
+
+- Actualmente me encuentro aprendiendo React Js.
+- Actualmente me encuentro aprendiendo Node Js.
+
 
 <!--
 **nicksiuxs/nicksiuxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
