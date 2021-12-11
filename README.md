@@ -1,4 +1,4 @@
-## Nicolas Londoño Perez
+## Nicolas Londoño
 
 Soy un desarrollador front end, apasionado por las tecnologías web 💻.
 
