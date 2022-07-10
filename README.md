@@ -1,22 +1,11 @@
 ## Nicolas Londoño
 
-Soy un desarrollador front end, apasionado por las tecnologías web 💻.
+Soy un desarrollador front end, apasionado por las tecnologías web .
 
-- Actualmente me encuentro aprendiendo React Js.
-- Actualmente me encuentro aprendiendo Node Js.
+I am a software engineer who is passionate about web technologies 💻. My main skills are frontend development. I am currently learning:
+- Backend with Node js.
+- Java (data structures).
+- TypeScript.
 
-
-<!--
-**nicksiuxs/nicksiuxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact:
+I show my learning process on my [Twitch channel](https://www.twitch.tv/nicksiuxs).
